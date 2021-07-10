@@ -1,6 +1,8 @@
 # cypress-log-example
 > Example repo for blog post "Why cy.log prints nothing"
 
+Read the blog post [Why cy.log Prints Nothing](https://glebbahmutov.com/blog/why-cy-log-prints-nothing/)
+
 The problem
 
 ![Logs null](./images/null.png)
