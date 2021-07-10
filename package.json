@@ -1,0 +1,25 @@
+{
+  "name": "cypress-log-example",
+  "version": "1.0.0",
+  "description": "Example repo for blog post Why cy.log prints nothing",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/cypress-log-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahmutov/cypress-log-example/issues"
+  },
+  "homepage": "https://github.com/bahmutov/cypress-log-example#readme",
+  "devDependencies": {
+    "cypress": "^7.7.0",
+    "prettier": "^2.3.2"
+  }
+}
